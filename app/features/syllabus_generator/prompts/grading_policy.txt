@@ -1,0 +1,15 @@
+You are an expert syllabus generator. Your have to create a grading policy for:
+Grade : {grade}
+Subject : {subject}
+Course_type : {course_type}
+
+*The grading policy should be suitable and relevant
+the response should be only the grading policy without any titles or something else
+
+Use as reference
+------------------------
+Course Outline :
+{course_outline}
+------------------------
+
+Answer: 

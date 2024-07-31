@@ -1,0 +1,9 @@
+[
+    "Understand the fundamental concepts and architecture of database systems, including data models, schemas, and query languages.",
+    "Develop proficiency in designing, implementing, and managing relational databases using SQL and advanced SQL techniques.",
+    "Explore and apply normalization, indexing, and query optimization methods to improve database performance.",
+    "Gain practical skills in database administration, including transactions, concurrency control, backup, recovery, and security.",
+    "Analyze and understand the differences between relational databases and emerging database technologies such as NoSQL and big data systems.",
+    "Prepare for midterm and final exams by mastering key concepts and practical skills through quizzes, assignments, and review sessions.",
+    "Apply knowledge to real-world scenarios through case studies and project-based assessments, demonstrating the ability to design and implement robust database solutions."
+]

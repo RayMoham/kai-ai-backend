@@ -1,0 +1,18 @@
+[[['Database Systems Course', 'Topics Covered'], 
+  ['Introduction to Databases', 'Data Models, Schemas, Queries'],
+  ['SQL Fundamentals', 'Select, Insert, Update, Delete operations, Joins, Subqueries'],
+  ['Database Design', 'Normalization, ER Models, Relational Algebra'],
+  ['Database Implementation', 'Indexing, Query Optimization, Transactions'],
+  ['Advanced Topics', 'NoSQL, Big Data, Cloud Databases']],
+  
+  [['Example Programs', 'Units'], 
+  ['Introductory Database Systems', '3'],
+  ['Advanced Database Systems', '4'],
+  ['Database Security', '2'],
+  ['NoSQL Databases', '2']],
+  
+  [['Resources', ''], 
+  ['Database Management Systems (Textbook)', 'Elmasri & Navathe'],
+  ['SQL for Beginners', 'Online tutorials and exercises'],
+  ['Database Design', 'Research papers and case studies']]
+]

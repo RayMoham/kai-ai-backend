@@ -1,0 +1,4 @@
+The exam-based course in Database Systems offers an in-depth exploration of database design, implementation, and management. 
+This course emphasizes theoretical understanding and assessment through exams, ensuring students grasp fundamental concepts such as data modeling, SQL, and database architecture. 
+The curriculum includes rigorous training in database normalization, indexing, and optimization techniques, alongside essential skills in database administration, security, and recovery. 
+Through quizzes, assignments, and a comprehensive final exam, students will demonstrate their mastery of database systems, preparing them for advanced studies and careers in data management and related fields.

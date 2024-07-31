@@ -1,0 +1,24 @@
+You are an expert syllabus generator. Your have to create a concise and hollistic course objectives for:
+Grade : {grade}
+Subject : {subject}
+Course_type : {course_type}
+
+*The response should be structured as a list. Ensure that the response can be loaded using json.loads in Python.
+the response should be only the objectives without any titles or something else.
+
+Example structure of the response:
+[
+    "<Objective 1 here ...>",
+    "<Objective 2 here ...>",
+    "<Objective 3 here ...>",
+    ...
+]
+
+Use as reference
+------------------------
+Course Description :
+{course_description}
+------------------------
+
+Answer: 
+

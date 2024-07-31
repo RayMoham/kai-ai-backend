@@ -1,0 +1,74 @@
+[
+    {
+        "week": 1, 
+        "topic": "Introduction to Database Systems"
+    },
+    {
+        "week": 2, 
+        "topic": "Database System Architecture"
+    },
+    {
+        "week": 3, 
+        "topic": "Data Models and Database Design"
+    },
+    {
+        "week": 4, 
+        "topic": "Relational Databases and SQL"
+    },
+    {
+        "week": 5, 
+        "topic": "Advanced SQL and Query Optimization"
+    },
+    {
+        "week": 6, 
+        "topic": "Database Normalization and Integrity"
+    },
+    {
+        "week": 7, 
+        "topic": "Transactions and Concurrency Control"
+    },
+    {
+        "week": 8, 
+        "topic": "Database Security and Authorization"
+    },
+    {
+        "week": 9, 
+        "topic": "Midterm Exam and Review"
+    },
+    {
+        "week": 10, 
+        "topic": "Distributed Databases and NoSQL"
+    },
+    {
+        "week": 11, 
+        "topic": "Big Data Technologies and Analytics"
+    },
+    {
+        "week": 12, 
+        "topic": "Database Backup and Recovery"
+    },
+    {
+        "week": 13, 
+        "topic": "Database Tuning and Performance Optimization"
+    },
+    {
+        "week": 14, 
+        "topic": "Data Warehousing and OLAP"
+    },
+    {
+        "week": 15, 
+        "topic": "Emerging Trends in Database Systems"
+    },
+    {
+        "week": 16, 
+        "topic": "Case Studies and Project Presentations"
+    },
+    {
+        "week": 17, 
+        "topic": "Review and Final Exam Preparation"
+    },
+    {
+        "week": 18, 
+        "topic": "Final Exam"
+    }
+]
