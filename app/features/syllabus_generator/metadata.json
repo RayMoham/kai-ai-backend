@@ -1,18 +1,30 @@
 {
     "inputs": [
         {
-            "label": "grade",
-            "name": "grade",
+            "label": "Grade",
+            "name": "grade_level",
             "type": "text"
         },
         {
-            "label": "subject",
-            "name": "subject",
+            "label": "Subject",
+            "name": "topic",
             "type": "text"
         },
         {
-            "label": "Syllabus_type",
-            "name": "Syllabus_type",
+            "label": "Course_type",
+            "name": "course_type",
+            "type": "select",
+            "options": [
+                "project-based",
+                "thesis-based",
+                "exam-based",
+                "certification-based"
+            ]
+
+        },
+        {
+            "label": "Custom Info",
+            "name": "context",
             "type": "text"
         }
     ]

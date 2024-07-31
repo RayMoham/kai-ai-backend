@@ -12,8 +12,13 @@ env_path = Path(__file__).resolve().parents[3] / '.env'
 # Load the .env file
 load_dotenv(dotenv_path=env_path)
 
-API_KEY = open('API_KEY').read()
-SEARCH_ENGINE_ID = open('SEARCH_ENGINE_ID').read()
+#API_KEY = open('API_KEY').read() 
+#SEARCH_ENGINE_ID = open('SEARCH_ENGINE_ID').read()
+# Use the above code to directly save your keys in seperate files im the same folder and directly read them, if for some reason they are not detected
+
+API_KEY = os.getenv('API_KEY')
+SEARCH_ENGINE_ID = os.getenv('SEARCH_ENGINE_ID')
+
 grade = 'university'
 subject = 'Database Systems'
 course_type = 'exam-based'
